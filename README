@@ -1,0 +1,14 @@
+Misc Helpers for CakePHP
+
+by Mike Hostetler <mike (at) squarepegsystems.com>
+
+These are some simple helpers for CakePHP that I find useful.  Most
+are written by me, some are based on snippets hanging here and there
+around web.  Please fork and use as you wish.
+
+For more info on CakePHP helpers, see:
+http://book.cakephp.org/view/1095/Helpers
+
+
+They are licensed under the Apache license, unless otherwise noted.
+
